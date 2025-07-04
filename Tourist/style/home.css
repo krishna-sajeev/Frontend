@@ -3,3 +3,11 @@
      background-size: cover;
       color: white;
 }
+
+p{
+    font-size: large;
+}
+
+li{
+    font-weight: 800;
+}

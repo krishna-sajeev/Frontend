@@ -4,3 +4,11 @@
     max-width: 50%;
     align-content: center;
   }
+
+  li{
+    font-weight: 800;
+}
+.card-img-top {
+      height: 200px;
+      object-fit: cover;
+    }

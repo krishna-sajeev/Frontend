@@ -1,0 +1,25 @@
+li{
+    font-weight: 800;
+}
+
+.fst-italic{
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: left;
+}
+
+ .carousel-img {
+      height: 400px;
+      object-fit: cover;
+    }
+    .card-img-top {
+      height: 200px;
+      object-fit: cover;
+    }
+
+.nav-size{
+     width: 50%;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; 
+}
